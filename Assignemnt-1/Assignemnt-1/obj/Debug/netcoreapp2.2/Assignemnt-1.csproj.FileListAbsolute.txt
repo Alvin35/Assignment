@@ -1,0 +1,11 @@
+D:\Asp.net core assignments\Assignment\Assignemnt-1\Assignemnt-1\bin\Debug\netcoreapp2.2\Assignemnt-1.deps.json
+D:\Asp.net core assignments\Assignment\Assignemnt-1\Assignemnt-1\bin\Debug\netcoreapp2.2\Assignemnt-1.runtimeconfig.json
+D:\Asp.net core assignments\Assignment\Assignemnt-1\Assignemnt-1\bin\Debug\netcoreapp2.2\Assignemnt-1.runtimeconfig.dev.json
+D:\Asp.net core assignments\Assignment\Assignemnt-1\Assignemnt-1\bin\Debug\netcoreapp2.2\Assignemnt-1.dll
+D:\Asp.net core assignments\Assignment\Assignemnt-1\Assignemnt-1\bin\Debug\netcoreapp2.2\Assignemnt-1.pdb
+D:\Asp.net core assignments\Assignment\Assignemnt-1\Assignemnt-1\obj\Debug\netcoreapp2.2\Assignemnt-1.csprojAssemblyReference.cache
+D:\Asp.net core assignments\Assignment\Assignemnt-1\Assignemnt-1\obj\Debug\netcoreapp2.2\Assignemnt-1.csproj.CoreCompileInputs.cache
+D:\Asp.net core assignments\Assignment\Assignemnt-1\Assignemnt-1\obj\Debug\netcoreapp2.2\Assignemnt-1.AssemblyInfoInputs.cache
+D:\Asp.net core assignments\Assignment\Assignemnt-1\Assignemnt-1\obj\Debug\netcoreapp2.2\Assignemnt-1.AssemblyInfo.cs
+D:\Asp.net core assignments\Assignment\Assignemnt-1\Assignemnt-1\obj\Debug\netcoreapp2.2\Assignemnt-1.dll
+D:\Asp.net core assignments\Assignment\Assignemnt-1\Assignemnt-1\obj\Debug\netcoreapp2.2\Assignemnt-1.pdb
