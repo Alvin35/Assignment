@@ -9,8 +9,16 @@
   <ItemGroup>
     <Compile Remove="Abstract class.cs" />
     <Compile Remove="Anonymus type.cs" />
+    <Compile Remove="Array.cs" />
+    <Compile Remove="Condition.cs" />
     <Compile Remove="Dynamic type.cs" />
+    <Compile Remove="Enum.cs" />
     <Compile Remove="interface.cs" />
+    <Compile Remove="Loop.cs" />
+    <Compile Remove="Operators.cs" />
+    <Compile Remove="Property.cs" />
+    <Compile Remove="ReferenceType.cs" />
+    <Compile Remove="Switch.cs" />
     <Compile Remove="Variable.cs" />
   </ItemGroup>
 
