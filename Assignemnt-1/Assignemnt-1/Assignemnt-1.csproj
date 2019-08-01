@@ -1,9 +1,17 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.2</TargetFramework>
     <RootNamespace>Assignemnt_1</RootNamespace>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Abstract class.cs" />
+    <Compile Remove="Anonymus type.cs" />
+    <Compile Remove="Dynamic type.cs" />
+    <Compile Remove="interface.cs" />
+    <Compile Remove="Variable.cs" />
+  </ItemGroup>
 
 </Project>
